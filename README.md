@@ -1,0 +1,16 @@
+#TASK7
+![1.png](proof/1.png)
+![2.png](proof/2.png)
+![3.png](proof/3.png)
+![4.png](proof/4.png)
+![5.png](proof/5.png)
+![6.png](proof/6.png)
+![7.png](proof/7.png)
+![8.png](proof/8.png)
+![9.png](proof/9.png)
+![10.png](proof/10.png)
+![11.png](proof/11.png)
+![12.png](proof/12.png)
+![13.png](proof/13.png)
+![14.png](proof/14.png)
+https://github.com/AdirTamam1/ass7
